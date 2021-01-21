@@ -1,0 +1,51 @@
+header {
+	background-color: #1770c9;
+	padding: 15px 0;
+	font-weight: bold;
+}
+
+.entete {
+	background-color: #1770c9;
+	padding: 15px 0;
+	font-weight: bold;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+.milieu {
+	margin: 0 auto;
+	padding: 10px 0;
+}
+
+.couleur {
+	background-color: #1770c9;
+	margin-bottom: 50px;
+}
+
+.tableau-couleur {
+	background-color: #87CEFA;
+}
+
+.footer-couleur {
+	background-color: #1770c9;
+	font-weight: bold;
+}
+
+.taille {
+	width: 300px;
+}
+
+.tables {
+	padding: 0 0 120px 0;
+}
+
+caption { 
+  	display: table-caption;
+  	text-align: center;
+  	caption-side: top;
+  	font-size: 25px;
+  	color: black;
+}

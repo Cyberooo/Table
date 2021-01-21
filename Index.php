@@ -3,7 +3,7 @@
 <head>
 	<title>TP 8</title>
 	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="Style.css">
 </head>
 
 <body>

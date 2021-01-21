@@ -16,5 +16,5 @@
 ## Aperçu
 <p>Voici l'aperçu du site web: </p>
 <p align="center">
-  <img src="Aperçu.png" width="100%" alt="accessibility text">
+  <img src="Aperçu.png" width="80%" alt="accessibility text">
 </p>
